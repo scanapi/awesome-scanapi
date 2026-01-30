@@ -70,6 +70,7 @@ You can suggest new tags if needed.
 ```md
 - **Project Name** – short description of the project
   `#tag1 #tag2 #tag3`
+```
 
 ---
 
